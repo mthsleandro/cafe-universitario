@@ -1,5 +1,5 @@
 
-# ![logo](https://github.com/mthsleandro/cafe-universitario/assets/132463214/1a6a2eed-909a-4d8c-85ec-7325e5814506)
+# ![image](https://github.com/mthsleandro/cafe-universitario/assets/132463214/61062025-c011-4e41-b1b8-86c81a17be11)
 
 Simple website for a fictional cafe. Features responsive CSS design and JavaScript functionalities for video playback.
 
